@@ -1,1 +1,1 @@
-# Kumpulan Assignment self-paced learning Bangkit 2022
+# Assignment self-paced learning Bangkit 2022
